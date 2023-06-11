@@ -1,6 +1,9 @@
 # ToeyRobort
 Assignment for interview
 
+RUN THE MAIN.KT FILE .
+OUTPUT WILL BE ON CONSOLE.
+
 Test Cases 
 Valid command:
 Input: "PLACE 1,2,NORTH MOVE REPORT"
